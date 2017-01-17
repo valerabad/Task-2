@@ -1,0 +1,5 @@
+c:\users\vab\documents\visual studio 2015\Projects\TaxComputing\TaxComputing\bin\Release\TaxComputing.dll
+c:\users\vab\documents\visual studio 2015\Projects\TaxComputing\TaxComputing\bin\Release\TaxComputing.pdb
+c:\users\vab\documents\visual studio 2015\Projects\TaxComputing\TaxComputing\obj\Release\TaxComputing.csprojResolveAssemblyReference.cache
+c:\users\vab\documents\visual studio 2015\Projects\TaxComputing\TaxComputing\obj\Release\TaxComputing.dll
+c:\users\vab\documents\visual studio 2015\Projects\TaxComputing\TaxComputing\obj\Release\TaxComputing.pdb
