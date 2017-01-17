@@ -1,0 +1,16 @@
+c:\users\vab\documents\visual studio 2015\Projects\Task_2\Task_2\bin\Debug\Task_2.exe.config
+c:\users\vab\documents\visual studio 2015\Projects\Task_2\Task_2\bin\Debug\Task_2.exe
+c:\users\vab\documents\visual studio 2015\Projects\Task_2\Task_2\bin\Debug\Task_2.pdb
+c:\users\vab\documents\visual studio 2015\Projects\Task_2\Task_2\bin\Debug\TaxComputing.dll
+c:\users\vab\documents\visual studio 2015\Projects\Task_2\Task_2\bin\Debug\TaxComputing.pdb
+c:\users\vab\documents\visual studio 2015\Projects\Task_2\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
+c:\users\vab\documents\visual studio 2015\Projects\Task_2\Task_2\obj\Debug\Task_2.exe
+c:\users\vab\documents\visual studio 2015\Projects\Task_2\Task_2\obj\Debug\Task_2.pdb
+C:\Users\vab\Desktop\Task 2\Task_2\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\vab\Desktop\Task 2\Task_2\Task_2\obj\Debug\Task_2.exe
+C:\Users\vab\Desktop\Task 2\Task_2\Task_2\obj\Debug\Task_2.pdb
+C:\Users\vab\Desktop\Task 2\Task_2\Task_2\bin\Debug\Task_2.exe
+C:\Users\vab\Desktop\Task 2\Task_2\Task_2\bin\Debug\Task_2.pdb
+C:\Users\vab\Desktop\Task 2\Task_2\Task_2\bin\Debug\TaxComputing.dll
+C:\Users\vab\Desktop\Task 2\Task_2\Task_2\bin\Debug\TaxComputing.pdb
+C:\Users\vab\Desktop\Task 2\Task_2\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
